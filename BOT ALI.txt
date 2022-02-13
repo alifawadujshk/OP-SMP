@@ -1,0 +1,5 @@
+{
+	"ip":"opgamer012.aternos.me",
+	"port": "13966",
+	"name": "afkbot"
+}
